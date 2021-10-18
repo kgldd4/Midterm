@@ -1,2 +1,2 @@
 # Midterm
-Markup pages containing my midterm projecft
+Markup pages containing my midterm project
