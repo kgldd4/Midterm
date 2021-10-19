@@ -1,6 +1,7 @@
 ## Katherine Larson
 
-![Picture of Katherine Larson](C:\Users\fblos\Downloads\IMG-3646.jpg)
+![Picture of Katherine Larson](https://user-images.githubusercontent.com/92762045/137926119-a53f74c9-6fef-41ae-b10d-bcbf6cc487d9.jpg)
+
 
 
 
@@ -14,7 +15,7 @@ After moving back to America, my dad settled in St. Louis, and that is where I g
 
 [Learn more about my highschool years](https://github.com/kgldd4/Midterm/blob/4cb9ece2a3c4c40a4eeebb3baf9ffdd2b24406e2/The%20Highschool%20Years.md)
 
-[Back to Home](https://github.com/kgldd4/Midterm/blob/f66c06d3bec49a239dec3d942aedb9f142a84c04/README.md)
+[Back to Home]
 
 
 
