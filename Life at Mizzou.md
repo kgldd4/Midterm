@@ -1,0 +1,18 @@
+## Life at Mizzou 
+
+I am currently a junior at Mizzou, studying environmental science. If you had asked me 5 years ago where I would be I never would have guessed here, but I am having a really good time! 
+
+_My favorite place on campus is..._
+
+#### **Anheuser Bush Natural Resources**
+
+_The best study spot on campus is_
+
+#### ABNR Reading Room 
+
+_My favorite place to eat on campus_
+
+#### Sabai 
+
+* A note on this, my favorite place to eat used to be the stirfry booth in plaza 900, but unfortunately due to Covid (I think), it was removed and thus, cannot be my favorite anymore
+
