@@ -16,6 +16,6 @@ _My favorite place to eat on campus_
 
 * A note on this, my favorite place to eat used to be the stirfry booth in plaza 900, but unfortunately due to Covid (I think), it was removed and thus, cannot be my favorite anymore
 
-What will I do after Mizzou? [Find out here}(https://github.com/kgldd4/Midterm/blob/dc59071631af4722c2009e0609fcfb4bb5c576f5/Thinking%20of%20the%20Future.md)
+What will I do after Mizzou? [Find out here](https://github.com/kgldd4/Midterm/blob/dc59071631af4722c2009e0609fcfb4bb5c576f5/Thinking%20of%20the%20Future.md)
 
 
