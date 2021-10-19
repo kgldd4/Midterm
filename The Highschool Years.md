@@ -28,7 +28,7 @@ We worked together with administration to try and change things for the better w
 
 For one year, I competed in varsity soccer. It was not for me! 
 
-Next up, is Mizzou! [Learn More Here](https://github.com/kgldd4/Midterm/blob/0bc5a9a01a67ae488d61330eaf2174ba47356fe0/Life%20at%20Mizzou.md)
+Next up, is Mizzou! [Learn More Here](https://github.com/kgldd4/Midterm/blob/7f3989b8feb4ff6053812df7123fcebbe7f68aed/Life%20at%20Mizzou.md)
 
 [Learn more about Parkway North High Here](https://www.parkwayschools.net/Domain/33)
 
