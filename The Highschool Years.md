@@ -30,3 +30,5 @@ For one year, I competed in varsity soccer. It was not for me!
 
 [Learn more about Parkway North High Here](https://www.parkwayschools.net/Domain/33)
 
+[Back to Home](https://github.com/kgldd4/Midterm/blob/952eb0ab104dbc8c9ea2a1526d9baf28fae8aebd/README.md)
+
