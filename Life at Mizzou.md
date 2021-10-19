@@ -18,4 +18,6 @@ _My favorite place to eat on campus_
 
 What will I do after Mizzou? [Find out here](https://github.com/kgldd4/Midterm/blob/dc59071631af4722c2009e0609fcfb4bb5c576f5/Thinking%20of%20the%20Future.md)
 
+What did I do before Mizzou? [Find out here](https://github.com/kgldd4/Midterm/blob/9b8b695fbc6830ff13ce81a6790ad7417dc6d7ec/The%20Highschool%20Years.md)
+
 
