@@ -15,7 +15,7 @@ After moving back to America, my dad settled in St. Louis, and that is where I g
 
 [Learn more about my highschool years](https://github.com/kgldd4/Midterm/blob/4cb9ece2a3c4c40a4eeebb3baf9ffdd2b24406e2/The%20Highschool%20Years.md)
 
-[Back to Home]
+[Back to Home](https://github.com/kgldd4/Midterm/blob/d8f7d0f4576c0302077a5ba824815728590846b2/Readme.md)
 
 
 
