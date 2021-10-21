@@ -32,5 +32,5 @@ Next up, is Mizzou! [Learn More Here](https://github.com/kgldd4/Midterm/blob/7f3
 
 [Learn more about Parkway North High Here](https://www.parkwayschools.net/Domain/33)
 
-[Back to Home](https://github.com/kgldd4/Midterm/blob/952eb0ab104dbc8c9ea2a1526d9baf28fae8aebd/README.md)
+[Back to Home](https://github.com/kgldd4/Midterm/blob/d8f7d0f4576c0302077a5ba824815728590846b2/Readme.md)
 
