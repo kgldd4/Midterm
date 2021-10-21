@@ -20,4 +20,6 @@ What will I do after Mizzou? [Find out here](https://github.com/kgldd4/Midterm/b
 
 What did I do before Mizzou? [Find out here](https://github.com/kgldd4/Midterm/blob/9b8b695fbc6830ff13ce81a6790ad7417dc6d7ec/The%20Highschool%20Years.md)
 
+[Back to Home](https://github.com/kgldd4/Midterm/blob/d8f7d0f4576c0302077a5ba824815728590846b2/Readme.md)
+
 
